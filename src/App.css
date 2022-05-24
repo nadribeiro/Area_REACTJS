@@ -4,7 +4,7 @@
     width: 600px; 
     margin: 30px auto; 
     padding: 20px;
-    background-color: #ccc;
+    background-color: rgb(243, 193, 231);
 }
 
 label { width: 60px; display: inline-block;}
