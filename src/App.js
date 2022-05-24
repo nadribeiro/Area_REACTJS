@@ -4,7 +4,7 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
-      <CalcPage titulo="Area" />
+      <CalcPage titulo="Calcule a Área:" />
     </div>
   );
 }

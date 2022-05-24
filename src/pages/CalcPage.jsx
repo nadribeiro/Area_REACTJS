@@ -21,7 +21,7 @@ export default function CalcPage({ titulo }) {
       <PageTitle title={titulo} />
       <div className="linha">
         <div className="coluna">
-          <Form comprimento="5" largura="3.5" onCalcAREA={addHistorico} />
+          <Form comprimento="5" largura="3.5" onCalcArea={addHistorico} />
         </div>
         <div className="coluna">
           <Historico itens={historico} />

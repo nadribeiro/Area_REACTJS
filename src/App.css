@@ -7,7 +7,7 @@
     background-color: rgb(243, 193, 231);
 }
 
-label { width: 60px; display: inline-block;}
-button { width: 100%; }
+label { width: 100px; display: inline-block;}
+button { width: 26%; }
 
 .Historico { font-size: 10px;}
